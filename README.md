@@ -7,6 +7,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/andrew-arnett-data-scientist/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I just completed a foster parenting class and was placed with 3 girls under 2 years old for my first placement.
+- ⚡ Fun fact: ... I just completed a foster parenting class and was placed with 3 girls under 3 years old for my first placement.
 - Skills: Scikit-Learn, NLP, MySQL, Data Engineering, Python, Pandas, Numpy, SMOTE, Machine Learning, Deep Learning
 - Passionate about predicting outcomes of sporting events.
